@@ -44,6 +44,12 @@ Timestamp tracking
 ### V10
 Dashboard and graphical analytics
 
+## Bar Chart
+![Bar Chart](bar_chart.png)
+
+## Pie Chart
+![Pie Chart](pie_chart.png)
+
 ## Future Improvements
 
 - CSV export
